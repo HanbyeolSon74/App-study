@@ -56,12 +56,9 @@ React Native(Expo)와 Firebase를 활용하여 회원가입/로그인, 글 작�
 
 | 게시글 작성 | 게시글 상세 | 댓글 |
 |-------------|-------------|------|
-| <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/6cb6c895-f0fd-4e71-977b-c6d0479d885f" /> | <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/1bf14bd0-6f68-4e29-8c67-ded3ab1af68b" /> | ![comment](./assets/screens/comment.png) |
+| <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/6cb6c895-f0fd-4e71-977b-c6d0479d885f" /> | <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/1bf14bd0-6f68-4e29-8c67-ded3ab1af68b" /> | <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3bf4110a-9821-45ae-9c66-18253e6fa924" /> |
 
 	
-
-
-
 
 
 
