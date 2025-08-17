@@ -63,14 +63,17 @@ npx expo start
 
 | 로그인 | 회원가입 | 게시글 목록 |
 |--------|----------|-------------|
-| ![login](./assets/screens/login.png) | ![signup](./assets/screens/signup.png) | ![list](./assets/screens/list.png) |
+| <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/d37b5d5a-0e5e-497e-bba0-6b4dfe47cd24" /> | <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/620b774e-7f3e-48d0-92cd-12c6b72a96bc" /> | <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/5bc76f39-60a3-4838-853f-74c74c28c981" /> |
 
 | 게시글 작성 | 게시글 상세 | 댓글 |
 |-------------|-------------|------|
-| ![create](./assets/screens/create.png) | ![detail](./assets/screens/detail.png) | ![comment](./assets/screens/comment.png) |
+| <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/6cb6c895-f0fd-4e71-977b-c6d0479d885f" /> | <img width="200" height="400" alt="Image" src="https://github.com/user-attachments/assets/1bf14bd0-6f68-4e29-8c67-ded3ab1af68b" /> | ![comment](./assets/screens/comment.png) |
 
 	
-	
+
+
+
+
 
 
 📌 개발자
